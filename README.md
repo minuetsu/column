@@ -1,4 +1,4 @@
-# osu-skins
+# column skins
 ### [seoulv10(kohlrubenwinter+column)](https://drive.google.com/file/d/1gyiUOa0-eKyE6UhS9h9kU9MrUWABA7Ye/view?usp=sharing)
 ![screenshot037](https://github.com/minuetsu/osu-skins/assets/144561515/2d7f0e98-752e-42f9-bc76-e6aeb19876f9)
 ### [angorpie pink](https://drive.google.com/u/0/uc?id=1yShqRRzcLCDO5Yab3oVt3wPamQWXfC6C&export=download)
