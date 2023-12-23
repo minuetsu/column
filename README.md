@@ -1,4 +1,8 @@
 # osu-skins
+### [seoulv10(kohlrubenwinter+column)](https://drive.google.com/file/d/1gyiUOa0-eKyE6UhS9h9kU9MrUWABA7Ye/view?usp=sharing)
+![screenshot037](https://github.com/minuetsu/osu-skins/assets/144561515/2d7f0e98-752e-42f9-bc76-e6aeb19876f9)
+### [angorpie pink](https://drive.google.com/u/0/uc?id=1yShqRRzcLCDO5Yab3oVt3wPamQWXfC6C&export=download)
+![288947524-aab56cb6-00b5-4fb2-896a-0af6b41598fc](https://github.com/minuetsu/osu-skins/assets/144561515/f61c3403-df6c-4b96-a9b8-0e0e98439c99)
 ### [column+enri-seoulv10](https://drive.google.com/file/d/191YIgahLfJ6WQkKfYIRtovstcx8CSJdt/view?usp=sharing)
 ![screenshot026](https://github.com/minuetsu/osu-skins/assets/144561515/e77c30da-efa7-48e6-9003-8f4bb6dae963)
 ### [woal kimika column edit](https://drive.google.com/file/d/11tjebJpwRtB609dOmRsiOAEUGnqYVfAC/view?usp=drive_link)
